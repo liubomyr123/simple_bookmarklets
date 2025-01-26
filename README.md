@@ -1,6 +1,6 @@
 // How to use:
 
-// 1. Open Your Browser
+// 1. Open Your Browser \n
 // 2. Access Bookmark Manager
 // 3. Create a New Bookmark
 // 4. Add name, for example: "Download Links"
